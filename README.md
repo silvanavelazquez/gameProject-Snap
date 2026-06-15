@@ -1,4 +1,9 @@
-# gameProject-Snap
+# 🎮 Neat and Tidy! An Organization Game
+
+[![Play Now](https://shields.io)](https://berkeley.edu)
+
+---
+
 Neat and Tidy! An Organization Game
 This game was created by Melanie Sandoval, Silvana Velazquez, and Paris Sithavong.
 
