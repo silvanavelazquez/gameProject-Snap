@@ -1,6 +1,7 @@
 # 🎮 Neat and Tidy! An Organization Game
 
-[![Play Now](https://shields.io)](https://berkeley.edu)
+[🎮 CLICK HERE TO PLAY THE GAME](https://snap.berkeley.edu)
+
 
 ---
 
