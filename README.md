@@ -1,6 +1,6 @@
 # 🎮 Neat and Tidy! An Organization Game
 
-[🎮 CLICK HERE TO PLAY THE GAME](https://snap.berkeley.edu)
+[🎮 CLICK HERE TO PLAY THE GAME](https://snap.berkeley.edu/project?username=silvanavelazquez&projectname=gameProject)
 
 
 ---
